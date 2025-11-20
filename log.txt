@@ -1,3 +1,5 @@
+b66cdb0 completed Task 2.2
+dffda78 completed Task 2.1
 150db79 extracting the switch statement logic
 e794e22 completed Task 1.2
 50d2f63 completed Task 1.1
